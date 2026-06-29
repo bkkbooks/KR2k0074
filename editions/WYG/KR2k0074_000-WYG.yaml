@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0074/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0074_WYG_000-1a, image: WYG0579/WYG0579-0347a.png}
+body:
+  text: 兩河清彚地理類四河渠之屬提要臣等謹案兩河清彚八卷國朝薛鳯祚撰鳯祚字儀甫益都人受算術於西洋穆尼閣以天文名家國初言歴法者推為獨絶梅文鼎勿菴歴算書記所謂青州之學也而亦究心於地理故詳究兩河利病以著是書卷首列黄河運河兩圖一卷至四卷為運河修築形勢北自昌平通州南至浙江等處河湖泉水諸目皆詳載之五卷六卷則専記黄河職官夫役道里之數及歴代至本朝治河成績七卷則緝錄前明潘季馴河防辨惑國朝崔雅芻議或問二書八卷則鳯祚所自著也曰芻論曰修守事宜曰河防緒言曰河防永賴書中援據今古於河防得失疏證頗明惟海運一篇欲訪元運故道與漕河並行蓋猶祖邱濬之舊説則迂謬而逺於事情遂為白璧之微瑕無是可矣乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:7fab7c2138b7e9a3c607ba0d50e3e53410c1117405c3c6b2331b93bae3b57855
+metadata:
+  title: 兩河清彙
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:44:12.169393'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0074/KR2k0074_000.txt
+hash: sha256:6560414c08736090addc2fb6d3dbb17cf02d2e1e71fde3e65911edbc3c543ba9
